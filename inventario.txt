@@ -1,0 +1,12 @@
+Estilo: Dama
+Color: verde
+Talla: 22
+
+Estilo: Caballero
+Color: azul
+Talla: 45
+
+Estilo: Niños
+Color: rosa
+Talla: 23
+
